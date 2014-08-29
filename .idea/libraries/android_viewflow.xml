@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-viewflow">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/android-viewflow.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
